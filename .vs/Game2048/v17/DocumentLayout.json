@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|c:\\users\\gu3st\\documents\\game_boy_advance\\git\\2048\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|solutionrelative:mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|c:\\users\\gu3st\\documents\\game_boy_advance\\git\\2048\\gamelogic\\boardhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|solutionrelative:gamelogic\\boardhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|c:\\users\\gu3st\\documents\\game_boy_advance\\git\\2048\\gamelogic\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|solutionrelative:gamelogic\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|c:\\users\\gu3st\\documents\\game_boy_advance\\git\\2048\\gamelogic\\tilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|solutionrelative:gamelogic\\tilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|c:\\users\\gu3st\\documents\\game_boy_advance\\git\\2048\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|c:\\users\\gu3st\\documents\\game_boy_advance\\git\\2048\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|c:\\users\\gu3st\\documents\\game_boy_advance\\git\\2048\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A56AB98-187B-44A1-B577-98E1B8E256CD}|Game2048.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\GameLogic\\TileHelper.cs",
+              "RelativeDocumentMoniker": "GameLogic\\TileHelper.cs",
+              "ToolTip": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\GameLogic\\TileHelper.cs",
+              "RelativeToolTip": "GameLogic\\TileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:12:24.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoardHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\GameLogic\\BoardHelper.cs",
+              "RelativeDocumentMoniker": "GameLogic\\BoardHelper.cs",
+              "ToolTip": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\GameLogic\\BoardHelper.cs",
+              "RelativeToolTip": "GameLogic\\BoardHelper.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:11:29.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\GameLogic\\GameService.cs",
+              "RelativeDocumentMoniker": "GameLogic\\GameService.cs",
+              "ToolTip": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\GameLogic\\GameService.cs",
+              "RelativeToolTip": "GameLogic\\GameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:42:03.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-27T08:39:43.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-27T08:39:38.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\MainLayout.razor",
+              "RelativeDocumentMoniker": "MainLayout.razor",
+              "ToolTip": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\MainLayout.razor",
+              "RelativeToolTip": "MainLayout.razor",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T08:39:30.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\Gu3st\\Documents\\game_boy_advance\\git\\2048\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T08:37:47.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

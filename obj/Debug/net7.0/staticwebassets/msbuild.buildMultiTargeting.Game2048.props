@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Game2048.props" />
+</Project>

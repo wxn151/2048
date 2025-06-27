@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Game2048": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53116;http://localhost:53117"
+    }
+  }
+}
